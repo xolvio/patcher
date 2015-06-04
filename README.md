@@ -6,9 +6,9 @@ you want to test a Meteor method from a server and pass in attributes like `user
 to authenticate via DDP first. 
 
 #Get the Book
-To learn more about testing with Meteor, consider purchasing our book [The Meteor Testing Manual](http://www.meteortesting.com/?utm_source=cleaner&utm_medium=banner&utm_campaign=cleaner).
+To learn more about testing with Meteor, consider purchasing our book [The Meteor Testing Manual](http://www.meteortesting.com/?utm_source=patcher&utm_medium=banner&utm_campaign=patcher).
 
-[![](http://www.meteortesting.com/img/tmtm.gif)](http://www.meteortesting.com/?utm_source=cleaner&utm_medium=banner&utm_campaign=cleaner)
+[![](http://www.meteortesting.com/img/tmtm.gif)](http://www.meteortesting.com/?utm_source=patcher&utm_medium=banner&utm_campaign=patcher)
 
 Your support helps us continue our work on Velocity and related frameworks.
 
